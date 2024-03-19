@@ -2,4 +2,4 @@ merhaba
 ikinci satır
 üçüncü satır
 remote masterdan gelen 3. satır güncelleme
-
+5. satır yeni kod
