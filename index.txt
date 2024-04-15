@@ -4,7 +4,6 @@ ikinci satır
 remote masterdan gelen 3. satır güncelleme
 5. satır yeni kod
 6. satira ekleme yapildi.
-7. satir
-8.
-9.
 locale dosyamı ekledim.
+
+dosyalar silindi, güncellemeler yapıldı.
