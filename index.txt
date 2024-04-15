@@ -7,3 +7,4 @@ remote masterdan gelen 3. satır güncelleme
 7. satir
 8.
 9.
+locale dosyamı ekledim.
