@@ -7,3 +7,4 @@ remote masterdan gelen 3. satır güncelleme
 locale dosyamı ekledim.
 
 dosyalar silindi, güncellemeler yapıldı.
+projeye güncelleme yapıldı.
